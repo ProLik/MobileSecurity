@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">守护卫士</string>
+    <string name="sample_device_admin_description">测试安全卫士设备管理器</string>
+    <string name="sample_device_admin">安全卫士设备管理器</string>
+</resources>
