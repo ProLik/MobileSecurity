@@ -1,0 +1,286 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:2:1-110:12
+	package
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:2:11-54
+		INJECTED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml
+		INJECTED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml
+		INJECTED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml
+	android:revisionCode
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:4:11-35
+	xmlns:android
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml
+		INJECTED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:11:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:13:5-69
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:13:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:18:22-63
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:20:5-77
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:20:22-75
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:21:5-87
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:21:22-85
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:22:5-83
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:22:22-81
+application
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:24:5-108:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIKANG\.android\build-cache\6c1f170e7e2920cfed07cef89d5c73b0d0e9cc42\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\LIKANG\.android\build-cache\fa23206feb0585d6ca3a94a41c1f150d81f63589\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\LIKANG\.android\build-cache\c0fec8c44493e6fb76d13fa4b5be068a085a6f7a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\LIKANG\.android\build-cache\69f20682b33c1fd3e9f82fccc3826595c5452efb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\LIKANG\.android\build-cache\875d5a53d5fc99341efa31190449bec2e593f25c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\LIKANG\.android\build-cache\a8e2bc503d21cc325467f116a6d078ab6b0b88c9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\LIKANG\.android\build-cache\288533dc1601041d99e5cc67c41814445d0a1e14\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\LIKANG\.android\build-cache\ed35203e3512ec263290bab8aabc15ce7b98286d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\LIKANG\.android\build-cache\7851a97f8afc0d7c7456d53511266509c73da7ae\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] C:\Users\LIKANG\.android\build-cache\85317c0d6fb9f4b330c90d42badfabda891c39c7\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:27:9-41
+	android:supportsRtl
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:28:9-35
+	android:allowBackup
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:26:9-36
+	android:theme
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:29:9-40
+activity#com.prolik.android.mobilesecurity.activity.MainActivity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:30:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.prolik.android.mobilesecurity.activity.HomeActivity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:37:9-58
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:37:19-56
+activity#com.prolik.android.mobilesecurity.activity.SettingActivity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:38:9-61
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:38:19-59
+activity#com.prolik.android.mobilesecurity.activity.LostFindActivity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:39:9-62
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:39:19-60
+activity#com.prolik.android.mobilesecurity.activity.Setup1Activity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:40:9-60
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:40:19-58
+activity#com.prolik.android.mobilesecurity.activity.Setup2Activity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:41:9-60
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:41:19-58
+activity#com.prolik.android.mobilesecurity.activity.Setup3Activity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:42:9-60
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:42:19-58
+activity#com.prolik.android.mobilesecurity.activity.Setup4Activity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:43:9-60
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:43:19-58
+activity#com.prolik.android.mobilesecurity.activity.ContactActivity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:44:9-61
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:44:19-59
+receiver#com.prolik.android.mobilesecurity.receiver.BootCompleteReceiver
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:46:9-50:20
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:46:19-64
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:47:13-49:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:48:17-78
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:48:25-76
+receiver#com.prolik.android.mobilesecurity.receiver.SmsReceiver
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:51:9-56:20
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:51:19-55
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:52:13-55:29
+	android:priority
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:52:28-57
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:53:17-54:26
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:53:25-79
+receiver#com.prolik.android.mobilesecurity.receiver.AdminReceiver
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:58:9-70:20
+	android:label
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:61:13-56
+	android:permission
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:62:13-70
+	android:description
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:60:13-74
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:59:13-51
+meta-data#android.app.device_admin
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:63:13-65:62
+	android:resource
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:65:17-60
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:64:17-56
+intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:67:13-69:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:68:17-81
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:68:25-79
+service#com.prolik.android.mobilesecurity.service.LocationService
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:72:9-76:19
+	android:enabled
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:74:13-35
+	android:exported
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:75:13-36
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:73:13-52
+service#com.prolik.android.mobilesecurity.service.AddressService
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:77:9-58
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:77:18-56
+activity#com.prolik.android.mobilesecurity.activity.AToolsActivity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:79:9-80:20
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:79:19-58
+activity#com.prolik.android.mobilesecurity.activity.AddressActivity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:81:9-82:20
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:81:19-59
+activity#com.prolik.android.mobilesecurity.activity.DragViewActivity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:83:9-86:20
+	android:theme
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:85:13-72
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:84:13-54
+activity#com.prolik.android.mobilesecurity.activity.CallSafeActivity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:87:9-88:20
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:87:19-60
+service#com.prolik.android.mobilesecurity.service.CallSafeService
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:90:9-94:19
+	android:enabled
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:92:13-35
+	android:exported
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:93:13-36
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:91:13-52
+activity#com.prolik.android.mobilesecurity.activity.AppManagerActivity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:96:9-97:20
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:96:19-62
+activity#com.prolik.android.mobilesecurity.activity.TaskManagerActivity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:98:9-99:20
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:98:19-63
+activity#com.prolik.android.mobilesecurity.activity.TaskManagerSettingActivity
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:100:9-101:20
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:100:19-70
+service#com.prolik.android.mobilesecurity.service.KillProcessService
+ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:103:9-107:19
+	android:enabled
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:105:13-35
+	android:exported
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:106:13-36
+	android:name
+		ADDED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml:104:13-55
+uses-sdk
+INJECTED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIKANG\.android\build-cache\6c1f170e7e2920cfed07cef89d5c73b0d0e9cc42\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\LIKANG\.android\build-cache\fa23206feb0585d6ca3a94a41c1f150d81f63589\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\LIKANG\.android\build-cache\c0fec8c44493e6fb76d13fa4b5be068a085a6f7a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\LIKANG\.android\build-cache\69f20682b33c1fd3e9f82fccc3826595c5452efb\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\LIKANG\.android\build-cache\875d5a53d5fc99341efa31190449bec2e593f25c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\LIKANG\.android\build-cache\a8e2bc503d21cc325467f116a6d078ab6b0b88c9\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\LIKANG\.android\build-cache\288533dc1601041d99e5cc67c41814445d0a1e14\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\LIKANG\.android\build-cache\ed35203e3512ec263290bab8aabc15ce7b98286d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\LIKANG\.android\build-cache\7851a97f8afc0d7c7456d53511266509c73da7ae\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] C:\Users\LIKANG\.android\build-cache\85317c0d6fb9f4b330c90d42badfabda891c39c7\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIKANG\.android\build-cache\6c1f170e7e2920cfed07cef89d5c73b0d0e9cc42\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml
+		INJECTED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml
+		INJECTED from D:\private\android-studio\MobileSecurity\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIKANG\.android\build-cache\6c1f170e7e2920cfed07cef89d5c73b0d0e9cc42\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\LIKANG\.android\build-cache\fa23206feb0585d6ca3a94a41c1f150d81f63589\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\LIKANG\.android\build-cache\c0fec8c44493e6fb76d13fa4b5be068a085a6f7a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\LIKANG\.android\build-cache\69f20682b33c1fd3e9f82fccc3826595c5452efb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\LIKANG\.android\build-cache\875d5a53d5fc99341efa31190449bec2e593f25c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\LIKANG\.android\build-cache\a8e2bc503d21cc325467f116a6d078ab6b0b88c9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\LIKANG\.android\build-cache\288533dc1601041d99e5cc67c41814445d0a1e14\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\LIKANG\.android\build-cache\ed35203e3512ec263290bab8aabc15ce7b98286d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\LIKANG\.android\build-cache\7851a97f8afc0d7c7456d53511266509c73da7ae\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIKANG\.android\build-cache\6c1f170e7e2920cfed07cef89d5c73b0d0e9cc42\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIKANG\.android\build-cache\6c1f170e7e2920cfed07cef89d5c73b0d0e9cc42\output\AndroidManifest.xml:26:9-47
